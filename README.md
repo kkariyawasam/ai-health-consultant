@@ -4,6 +4,9 @@ This project is a backend and frontend implementation of a medical chatbot that 
 
 ## UI Preview
 
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/f985a377-0d96-4d4d-a3e7-407e3088e026" />
+
+
 ## Key Features
 
 - **FAISS Integration**: The project utilizes FAISS (Facebook AI Similarity Search) to search through medical documents and retrieve the most relevant information for user queries. This enables fast, efficient, and accurate document retrieval.
