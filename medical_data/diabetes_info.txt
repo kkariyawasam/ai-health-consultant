@@ -1,0 +1,8 @@
+Diabetes Symptoms:
+- Frequent urination
+- Increased thirst
+- Unexplained weight loss
+- Fatigue
+- Blurred vision
+- Slow-healing sores
+(Source: WHO)
